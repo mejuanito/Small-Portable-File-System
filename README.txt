@@ -1,4 +1,4 @@
-To compile code use:
+To compile code make sure gcc is up to date:
 
 gcc main.c fs.c -o FS
 
